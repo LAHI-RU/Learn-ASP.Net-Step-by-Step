@@ -1,0 +1,7 @@
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\MyFirstCSharpApp.exe.config
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\MyFirstCSharpApp.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\MyFirstCSharpApp.pdb
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\MyFirstCSharpApp.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\MyFirstCSharpApp.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\MyFirstCSharpApp.pdb
