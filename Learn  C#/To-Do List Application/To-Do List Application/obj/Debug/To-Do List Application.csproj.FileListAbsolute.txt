@@ -1,0 +1,7 @@
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.exe.config
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.pdb
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.pdb

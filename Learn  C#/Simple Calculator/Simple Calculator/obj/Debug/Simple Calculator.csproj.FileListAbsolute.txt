@@ -1,0 +1,7 @@
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Learn-ASP.Net-Step-by-Step\Learn  C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
