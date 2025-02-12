@@ -1,0 +1,15 @@
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\bin\Debug\net8.0\MyFirstApp.exe
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\bin\Debug\net8.0\MyFirstApp.deps.json
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\bin\Debug\net8.0\MyFirstApp.runtimeconfig.json
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\bin\Debug\net8.0\MyFirstApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\bin\Debug\net8.0\MyFirstApp.pdb
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfo.cs
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\refint\MyFirstApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
+D:\Learn-ASP.Net-Step-by-Step\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
