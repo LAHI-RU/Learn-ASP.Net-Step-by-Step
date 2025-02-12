@@ -1,0 +1,15 @@
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+D:\Learn-ASP.Net-Step-by-Step\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
