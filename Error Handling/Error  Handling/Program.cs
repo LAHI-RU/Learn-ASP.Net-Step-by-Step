@@ -8,7 +8,7 @@ class Program
         {
             Console.Write("Enter a number: ");
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You entered: " + number);
+            Console.WriteLine("Yo entered: " + number);
         }
         catch (FormatException)
         {
@@ -16,7 +16,8 @@ class Program
         }
         finally
         {
-            Console.WriteLine("Program Ended.");
+            Console.WriteLine("Program Ended");
         }
     }
+
 }

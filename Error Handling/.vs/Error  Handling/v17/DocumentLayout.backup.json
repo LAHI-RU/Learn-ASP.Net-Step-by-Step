@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learn-ASP.Net-Step-by-Step\\Error  Handling\\",
+  "WorkspaceRootPath": "D:\\Learn-ASP.Net-Step-by-Step\\Error Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCF49CC-95ED-45D5-A77C-DC21BF32EA4D}|Error  Handling\\Error  Handling.csproj|d:\\learn-asp.net-step-by-step\\error  handling\\error  handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCF49CC-95ED-45D5-A77C-DC21BF32EA4D}|Error  Handling\\Error  Handling.csproj|d:\\learn-asp.net-step-by-step\\error handling\\error  handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCF49CC-95ED-45D5-A77C-DC21BF32EA4D}|Error  Handling\\Error  Handling.csproj|solutionrelative:error  handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn-ASP.Net-Step-by-Step\\Error  Handling\\Error  Handling\\Program.cs",
+              "DocumentMoniker": "D:\\Learn-ASP.Net-Step-by-Step\\Error Handling\\Error  Handling\\Program.cs",
               "RelativeDocumentMoniker": "Error  Handling\\Program.cs",
-              "ToolTip": "D:\\Learn-ASP.Net-Step-by-Step\\Error  Handling\\Error  Handling\\Program.cs",
+              "ToolTip": "D:\\Learn-ASP.Net-Step-by-Step\\Error Handling\\Error  Handling\\Program.cs",
               "RelativeToolTip": "Error  Handling\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:40:14.367Z",
               "EditorCaption": ""
