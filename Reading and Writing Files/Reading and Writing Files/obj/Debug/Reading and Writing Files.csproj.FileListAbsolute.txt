@@ -1,0 +1,7 @@
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\bin\Debug\Reading and Writing Files.exe.config
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\bin\Debug\Reading and Writing Files.exe
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\bin\Debug\Reading and Writing Files.pdb
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\obj\Debug\Reading and Writing Files.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\obj\Debug\Reading and Writing Files.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\obj\Debug\Reading and Writing Files.exe
+D:\Learn-ASP.Net-Step-by-Step\Reading and Writing Files\Reading and Writing Files\obj\Debug\Reading and Writing Files.pdb
