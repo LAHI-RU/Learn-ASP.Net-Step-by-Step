@@ -1,0 +1,7 @@
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\obj\Debug\File Handling.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\bin\Debug\File Handling.exe.config
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\bin\Debug\File Handling.exe
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\bin\Debug\File Handling.pdb
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\obj\Debug\File Handling.exe
+D:\Learn-ASP.Net-Step-by-Step\File Handling\File Handling\obj\Debug\File Handling.pdb
