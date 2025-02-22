@@ -25,8 +25,8 @@ class Program
         */
 
 
+        /*
         // Insert Data into MySQL (Create)
-
         using (MySqlConnection conn = new MySqlConnection(connectionString))
         {
             conn.Open();
@@ -34,13 +34,67 @@ class Program
 
             using(MySqlCommand cmd = new MySqlCommand(query, conn))
             {
-                cmd.Parameters.AddWithValue("@Name", "Lahiru Bandara");
-                cmd.Parameters.AddWithValue("@Email", "lahiru123@gmail.com");
+                cmd.Parameters.AddWithValue("@Name", "Thimira");
+                cmd.Parameters.AddWithValue("@Email", "thimira123@gmail.com");
                 cmd.Parameters.AddWithValue("@Age", 25);
 
                 int rowsAffected = cmd.ExecuteNonQuery();
                 Console.WriteLine($"{rowsAffected} row(s) inserted successfully");
             }
         }
+        */
+
+
+        // Read Data from MySQL (Retrieve)
+        using (MySqlConnection conn = new MySqlConnection(connectionString))
+        {
+            conn.Open();
+            string query1 = "SELECT * from Users";
+
+            using( MySqlCommand cmd = new MySqlCommand( query1, conn))
+            {
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Console.WriteLine($"ID: {reader["Id"]},Name: {reader["Name"]}, Email: {reader["Email"]}, Age: {reader["Age"]} ");
+                }
+            }
+        }
+        
+
+        // Update Data in MySQL
+        using (MySqlConnection conn = new MySqlConnection(connectionString))
+        {
+            conn.Open();
+            string query2 = "UPDATE Users SET Age = @Age WHERE Name = @Name";
+
+            using (MySqlCommand cmd = new MySqlCommand(query2, conn))
+            {
+                cmd.Parameters.AddWithValue("@Name", "Thimira");
+                cmd.Parameters.AddWithValue("@Age", 30);
+
+                int rowsAffected = cmd.ExecuteNonQuery();
+                Console.WriteLine($"{rowsAffected} row(s) updated successfully!");
+            }
+        }
+        
+
+        /*
+        // Delete Data from MySQL
+        using (MySqlConnection conn = new MySqlConnection(connectionString))
+        {
+            conn.Open();
+            string query3 = "DELETE FROM Users WHERE Name = @Name";
+
+            using (MySqlCommand cmd = new MySqlCommand(query3, conn))
+            {
+                cmd.Parameters.AddWithValue("@Name", "Shevon Fernando");
+
+                int rowsAffected = cmd.ExecuteNonQuery();
+                Console.WriteLine($"{rowsAffected} row(s) deleted successfully!");
+            }
+        }
+        */
+
     }
 }
