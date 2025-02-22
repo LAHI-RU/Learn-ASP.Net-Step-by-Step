@@ -1,0 +1,40 @@
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe.config
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.pdb
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\Google.Protobuf.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Compression.LZ4.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Hash.xxHash.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\MySql.Data.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Buffers.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.IO.Pipelines.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Memory.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Numerics.Vectors.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\ZstdSharp.dll
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\Google.Protobuf.pdb
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\Google.Protobuf.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Compression.LZ4.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\K4os.Hash.xxHash.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\MySql.Data.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Buffers.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.IO.Pipelines.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Memory.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Numerics.Vectors.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.AssemblyReference.cache
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.CoreCompileInputs.cache
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\obj\Debug\CRUD Ope.A9D5F7A4.Up2Date
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.exe
+D:\Learn-ASP.Net-Step-by-Step\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.pdb
