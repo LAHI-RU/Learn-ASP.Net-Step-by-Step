@@ -56,18 +56,6 @@ Welcome to **Learn-DotNet-StepByStep**, a structured guide to mastering .NET dev
 - CI/CD with GitHub Actions
 - Hands-on: Deploying an API to Azure
 
-## 📂 Repository Structure
-```
-📦 Learn-DotNet-StepByStep
-├── 📁 CSharpBasics
-├── 📁 DesktopApps
-├── 📁 WebApps
-├── 📁 REST_APIs
-├── 📁 Authentication
-├── 📁 Deployment
-├── README.md
-```
-
 ## 🎯 How to Use This Repository?
 1. Follow the **learning roadmap** step by step.
 2. Check out the **code examples** for each topic.
